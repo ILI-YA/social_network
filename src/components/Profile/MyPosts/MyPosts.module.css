@@ -1,0 +1,20 @@
+h3 {
+    padding: 0px 15px;
+}
+
+.form {
+    width: 200px;
+    padding: 0px 15px;
+}
+
+textarea {
+    height: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+button {
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}

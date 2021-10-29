@@ -1,0 +1,26 @@
+.header {
+    grid-area: header;
+    background: #0066cc;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+  
+.header h1 {
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+
+.loginBlock {
+    padding: 25px 20px;
+}
+
+.loginBlock a {
+    color: white;
+    text-decoration: none;
+}
+  

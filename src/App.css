@@ -1,0 +1,17 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas: 
+  "header header"
+  "nav content"
+  "footer footer";
+  grid-template-rows: 80px 1fr;
+  grid-template-columns: 2fr 10fr;
+}
+
+.content {
+  grid-area: content;
+  background: #e6f9ff;
+  border-radius: 10px 10px 0px 0px;
+}

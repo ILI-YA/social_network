@@ -1,0 +1,22 @@
+.avatar img {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    border-radius: 50%;
+}
+
+.about {
+    padding-left: 20px;
+}
+
+.contact {
+    padding-left: 10px;
+}
+
+.error {
+    color: red;
+}
+
+.status {
+    cursor: pointer;
+}
